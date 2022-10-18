@@ -1,0 +1,7 @@
+{
+  "name": "safepark",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
